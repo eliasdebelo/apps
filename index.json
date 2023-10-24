@@ -1,5 +1,10 @@
 {
-    "name":"Attend", 
-    "website":"attend.qubee-tp.com",
-    "version":"3.0"
+    "attend":{
+        "website":"attend.qubee-tp.com",
+        "version":"3.0"
+    },
+    "batezon":{
+        "website":"batezon1.com",
+        "version":"1.5"
+    }
 }
