@@ -1,10 +1,12 @@
-{
-    "attend":{
+[
+    {
+        "name":"Attend",
         "website":"attend.qubee-tp.com",
         "version":"3.0"
     },
-    "batezon":{
+    {
+        "batezon":"batezon",
         "website":"batezon1.com",
         "version":"1.5"
     }
-}
+]
