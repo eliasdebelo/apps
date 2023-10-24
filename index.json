@@ -1,1 +1,5 @@
-{"name":"Attend", "website":"attend.qubee-tp.com"}
+{
+    "name":"Attend", 
+    "website":"attend.qubee-tp.com",
+    "version":"3.0"
+}
