@@ -1,12 +1,22 @@
 [
     {
         "name":"Attend",
-        "website":"attend.qubee-tp.com",
+        "address":"attend.qubee-tp.com",
         "version":"3.0"
     },
     {
         "name":"Batezon",
-        "website":"batezon1.com",
+        "address":"batezon1.com",
         "version":"1.5"
-    }
+    },
+    {
+        "name":"jCollector",
+        "address":"data.qubee-tp.com",
+        "version":"1.0"
+    },
+    {
+        "name":"unknown",
+        "address":"unknown",
+        "version":"unknown"
+    } 
 ]
