@@ -1,6 +1,6 @@
 [
     {
-        "name":"Attend",
+        "name":"AttendX",
         "address":"attend.qubee-tp.com",
         "version":"3.0"
     },
@@ -13,10 +13,5 @@
         "name":"jCollector",
         "address":"data.qubee-tp.com",
         "version":"1.0"
-    },
-    {
-        "name":"unknown",
-        "address":"unknown",
-        "version":"unknown"
-    } 
+    }
 ]
