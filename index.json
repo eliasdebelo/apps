@@ -13,5 +13,10 @@
         "name":"jCollector",
         "address":"data.qubee-tp.com",
         "version":"1.0"
+    },
+    {
+        "name":"Latin to ፊደል",
+        "address":"https://play.google.com/store/apps/details?id=com.qubeetp.l2f&pcampaignid=web_share",
+        "version":"1.0"
     }
 ]
